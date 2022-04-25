@@ -1,5 +1,5 @@
 # KemptenCity
-Semantic segmentation of urban areas for 2 simulation purposes
+Semantic segmentation of urban areas for simulation purposes
 
 This is the official implementation of the corresponding Paper (see Citation) and provides NN model and an overview.
 
