@@ -11,7 +11,3 @@ This is the official implementation of the corresponding Paper (see Citation) an
 ##  Model - DenseUnet ASPP
 
 ![test](arch_new.png)
-## Results
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)https://github.com/PeterBuckel/KemptenCity/
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
