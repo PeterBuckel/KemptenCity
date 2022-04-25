@@ -1,51 +1,19 @@
 # KemptenCity
 Semantic segmentation of urban areas for 2 simulation purposes
 
-# Project Title
-
-A brief description of what this project does and who it's for
+This is the official implementation of the corresponding Paper (see Citation) and provides NN model and an overview.
 
 
-## Authors
-
-- [@katherinepeterson](https://www.github.com/octokatherine)
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
+## Citation
 ## License
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Usage/Examples
+##  Model - DenseUnet ASPP
 
-```javascript
-import Component from 'my-project'
+![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Results
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-function App() {
-  return <Component />
-}
-```
-
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
