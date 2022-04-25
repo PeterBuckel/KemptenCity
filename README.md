@@ -10,8 +10,8 @@ This is the official implementation of the corresponding Paper (see Citation) an
 
 ##  Model - DenseUnet ASPP
 
-![test](https://github.com/PeterBuckel/KemptenCity/468x300?image=arch_new.png)
+![test](468x300?image=arch_new.png)
 ## Results
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)https://github.com/PeterBuckel/KemptenCity/
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
